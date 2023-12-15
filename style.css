@@ -1,0 +1,28 @@
+.main__contents {
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    margin-bottom: 8px;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.image__wrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+img {
+    width: 50%;
+}
+
+.button__block {}
+
+.button__start {
+    border: 1px solid black;
+    padding: 4px;
+    width: 30%;
+}
