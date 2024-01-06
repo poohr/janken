@@ -3,15 +3,16 @@
     width: 100%;
 }
 
-h1 {
-    margin-bottom: 8px;
+.main__title {
+    margin: 16px 0 8px 0;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 32px;
 }
 
 .image__wrapper {
     display: flex;
     justify-content: center;
+    height: 560px;
     width: 100%;
 }
 
@@ -22,7 +23,10 @@ img {
 .button__block {}
 
 .button__start {
-    border: 1px solid black;
-    padding: 4px;
+    border: 2px solid black;
+    padding: 8px;
+    height: 52px;
     width: 30%;
+    font-weight: bold;
+    font-size: 20px;
 }
